@@ -7,4 +7,5 @@ venue: <strong>IEEE Transactions on Industrial Informatics</strong> (Major Revis
 vtype: major revision
 year: 2026
 ptype: Full Paper
+---
 file: /assets/files/.pdf
