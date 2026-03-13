@@ -1,11 +1,11 @@
 ---
-id: 3
-title: '(Title withheld due to double-blind policy.)'
-index: U01
+id: 6
+title: 'Reliability-Aware Predictive Handover via Deep Learning-Based Dynamic Adjustment of Dual Thresholds for Underwater Acoustic Networks'
+index: U04
 authors: Taegyeom Lee<sup>†</sup>, Woonggyu Min<sup>†, <strong><u> Byunghyuk Youn</u></strong>, </sup>Ho-Shin Cho*, </sup> Ohyun Jo*
-venue: <strong>IEEE Transactions on Industrial Informatics</strong> (Major Revision)
+venue: <strong>IEEE Internet of Things Journal</strong> (Under Review)
 vtype: major revision
-year: 2025
+year: 2026
 ptype: Full Paper
 ---
 
