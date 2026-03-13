@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jongseok Kim"
+title                    : "Byunghyuk Youn"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jongseok Kim"
-description              : "CV homepage for Jongseok Kim"
-url                      : "https://kor-jskim.gitbhub.io" # the base hostname & protocol for your site e.g. "https://kor-jskim.github.io"
+name                     : "Byunghyuk Youn"
+description              : "CV homepage for Byunghyuk Youn"
+url                      : "https://ByunghyukYoun.gitbhub.io" # the base hostname & protocol for your site e.g. "https://kor-jskim.github.io"
 future                   : true
 
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -124,21 +124,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jongseok Kim"
-  avatar           : "/assets/images/jongseok kim.jpg"
-  bio              : "Research Assistant @ Information System Lab, CBNU"
+  name             : "Byunghyuk Youn"
+  avatar           : "/assets/images/Byunghyukyoun.jpg"
+  bio              : "Master Candidate @ Information System Lab, CBNU"
   # location         : "S4-1 room 306, Chungdae-ro 1, Seowon-gu, Cheongju, Chungbuk, 28644, ROK"
   #email            : "kmin010287@chungbuk.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:kjseok@chungbuk.ac.kr"
+      url: "mailto:ybh0311@chungbuk.ac.kr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kor-jskim/"
+      url: "https://github.com/ByunghyukYoun/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.co.kr/citations?user=nzFafjcAAAAJ&hl=ko&oi=ao"
+      url: "https://scholar.google.co.kr/citations?user=2Kai61gAAAAJ&hl=ko&oi=ao"
     # - label: "LinkedIn"
     #   icon: "fab fa-fw fa-linkedin-in"
     #   url: "https://linkedin.com/in/%EA%B9%80%EC%A2%85%EC%84%9D-0a3b28309/"
@@ -169,7 +169,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kor-jskim/"
+      url: "https://github.com/byunghyukyoun/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -178,7 +178,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/js.__.0101/"
+      url: "https://www.instagram.com/_____._._hyuk/"
 
 
 # Reading Files
