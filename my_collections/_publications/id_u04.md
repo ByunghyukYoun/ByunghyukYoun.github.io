@@ -4,7 +4,7 @@ title: 'Reliability-Aware Predictive Handover via Deep Learning-Based Dynamic Ad
 index: U04
 authors: Taegyeom Lee<sup>†</sup>, Woonggyu Min<sup>†, <strong><u> Byunghyuk Youn</u></strong>, </sup>Ho-Shin Cho*, </sup> Ohyun Jo*
 venue: <strong>IEEE Internet of Things Journal</strong> (Under Review)
-vtype: major revision
+vtype: under review
 year: 2026
 ptype: Full Paper
 ---
